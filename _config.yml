@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: HouseStoryDemo 
+title: Vernacularium 
 # tagline, a short phrase that will appear throughout the site
-tagline: a place to see if this will work
+tagline: The Dwelling Artefacts Project
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Vernacularium is a cultural heritage project focusing on artefactual production that occures in the unique environment of human domiciles, and the possibilities for using this data in humanities research.   "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: KColleteHill
 
